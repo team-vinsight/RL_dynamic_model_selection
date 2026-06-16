@@ -168,7 +168,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
----
+# For CUDA support, install PyTorch separately according to your CUDA version rather than relying on requirements.txt.
 
 ## Requirements
 
