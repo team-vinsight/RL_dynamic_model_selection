@@ -158,7 +158,7 @@ The agent gradually learns which model provides the best trade-off under differe
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/yolo-rl-selector.git
+git clone https://github.com/team-vinsight/RL_dynamic_model_selection.git
 cd yolo-rl-selector
 ```
 
